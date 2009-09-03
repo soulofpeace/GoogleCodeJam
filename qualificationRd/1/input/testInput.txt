@@ -1,0 +1,11 @@
+3 5 5
+abc
+bca
+dac
+dbc
+cba
+(ab)(bc)(ca)
+abc
+(abc)(abc)(abc)
+(zyx)bc
+abcd
